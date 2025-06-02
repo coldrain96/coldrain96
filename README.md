@@ -1,16 +1,57 @@
-## Hi there 👋
+## 👋 Hi, I’m Camille
+(<em>pronounced kah-MEEL — with a soft “L” like in “million”<em>)
 
-<!--
-**coldrain96/coldrain96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer with 5+ years of experience building web applications using Vue,
+TypeScript, and modern tooling. I work mostly on single-page and server-rendered apps.
 
-Here are some ideas to get you started:
+Currently building **GymRat PRO** — a workout tracker with Telegram bot integration,
+planning tools, and real-time sync. Handling both frontend and backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack Overview
+
+**Languages & Syntax**:  
+JavaScript (ES6+) • TypeScript • HTML • CSS • Sass • SQL
+
+**Frontend Frameworks**:  
+Vue 2/3 • Nuxt 2/3 (SPA/SSR) • Quasar (SPA/Capacitor)
+
+**State Management**:  
+Vuex • Pinia • RxJS
+
+**UI Libraries**:  
+Vuetify • Quasar UI • Element UI • Tailwind CSS
+
+**Backend & API**:  
+.NET • Node.js (scripts, tooling) • REST API • GraphQL • PostgreSQL
+
+**Infrastructure & Tooling**:  
+Docker • Docker Compose • CI/CD • Vite • GitHub Actions
+• Devtools • Postman • Linux
+
+**Other**:  
+BEM • XPath parsing • Email templates • Code review • Debugging & profiling
+
+---
+
+### 🔍 About My Code
+
+Most of the code I write is part of private commercial projects.  
+Code examples and specific implementations are available on request.
+
+---
+
+### 💼 Work With Me
+
+I help bring products to life — from frontend implementation
+to backend integration. I'm open to freelance or contract work.
+
+📄 [View my resume (PDF)](https://drive.google.com/file/d/1OQIKMtJstrIc7vneDbxK_EY6K9QtxMJF/view?usp=drive_link)
+
+---
+
+### 📬 Get in Touch
+
+Telegram: [@camille1093](https://t.me/camille1093)  
+Email: [justtryagain961@gmail.com](mailto:justtryagain961@gmail.com?subject=I've%20found%20your%20email%20on20%GitHub.com)
