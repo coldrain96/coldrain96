@@ -47,7 +47,7 @@ Code examples and specific implementations are available on request.
 I help bring products to life — from frontend implementation
 to backend integration. I'm open to freelance or contract work.
 
-📄 [View my resume (PDF)](https://drive.google.com/file/d/1OQIKMtJstrIc7vneDbxK_EY6K9QtxMJF/view?usp=drive_link)
+📄 [View CV (PDF)](https://drive.google.com/file/d/1OQIKMtJstrIc7vneDbxK_EY6K9QtxMJF/view?usp=drive_link)
 
 ---
 
