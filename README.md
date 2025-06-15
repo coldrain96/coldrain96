@@ -47,11 +47,11 @@ Code examples and specific implementations are available on request.
 I help bring products to life — from frontend implementation
 to backend integration. I'm open to freelance or contract work.
 
-📄 [View CV (PDF)](https://drive.google.com/file/d/1OQIKMtJstrIc7vneDbxK_EY6K9QtxMJF/view?usp=drive_link)
+📄 [View CV (PDF)](https://drive.google.com/file/d/1KU8IXlDBzu2Lu9bjRg_WA1dg-obCuWXH/view?usp=sharing)
 
 ---
 
 ### 📬 Get in Touch
 
-Telegram: [@camille1093](https://t.me/camille1093)  
-Email: [justtryagain961@gmail.com](mailto:justtryagain961@gmail.com?subject=I've%20found%20your%20email%20on20%GitHub.com)
+Telegram: [@camille1093](https://t.me/camille1093)
+Email: [camillebikmetov@gmail.com](mailto:camillebikmetov@gmail.com?subject=I've%20found%20your%20email%20on20%GitHub.com)
